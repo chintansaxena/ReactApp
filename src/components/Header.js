@@ -7,7 +7,6 @@ import { useSelector } from "react-redux";
 
 const Header = () => {
   const [btnNameReact, setBtnNameReact] = useState("Login");
-  console.log("Header render");
 
   const onlineStatus = useOnlineStatus();
 
