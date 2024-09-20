@@ -36,6 +36,6 @@ This project is a food ordering web application built with React.js, providing a
 
 Contributions are welcome! Please feel free to submit pull requests or report issues on the GitHub repository.
 
-#License - 
+# License - 
 
 This project is licensed under the MIT License.   
